@@ -6,4 +6,4 @@
    A beautiful landing page created from the React JS framework with several packages in it. Can display responsively on both desktop and mobile devices. Check this out on https://alqornie97.github.io/virtual-bank-landing-page/
    
 3. Ayonyetak Admin Page
-   A powerful Admin Page with a simple dashboard and some data input created from React JS framework. Can display responsively on both desktop and mobile devices. Check this out on https://alqornie97.github.io/ayonyetak-landing-page/
+   A powerful Admin Page with a simple dashboard and some data input created from React JS framework. Can display responsively on both desktop and mobile devices. Check this out on https://alqornie97.github.io/ayonyetak-admin-page/
